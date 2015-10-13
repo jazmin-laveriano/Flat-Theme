@@ -163,6 +163,7 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-bar-chart:before{content:"\f080";}
 .icon-twitter-sign:before{content:"\f081";}
 .icon-facebook-sign:before{content:"\f082";}
+.fa-facebook-square:before {content: "\f082";}
 .icon-camera-retro:before{content:"\f083";}
 .icon-key:before{content:"\f084";}
 .icon-gears:before,.icon-cogs:before{content:"\f085";}
