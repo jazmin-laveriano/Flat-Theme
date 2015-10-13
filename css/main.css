@@ -42,8 +42,16 @@ background-color: none;
 	margin:0;
 	padding:0;
 }
+#main-slider{
+	background: url('../images/slider/bg1.jpg') no-repeat;
+	height: 607px;
+	background-size: cover;	
+}
 .animation{
 	color: white;
+}
+.navbar-inverse {
+background-color: none;
 }
 
 .box {
@@ -213,3 +221,86 @@ ul.pagination > li.active > a, ul.pagination > li:hover > a {
 	background: #16B1AC;
 	transition: background 0.5s ;
 }
+/*main-colaboration*/
+
+.follow, .green{
+	background-color: #2ECC71;
+	color: white;
+}
+#Clients-say{
+	background: #E74C3C;
+}
+.center h2, p, cite{
+	color: white;
+}
+ul.arrow{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+#go{
+	background-color: #34495E;
+}
+body > section {
+    padding: 50px 0;
+}
+#go p, li, address{
+	color: #B6BDC2;
+}
+#go h4{
+	color: white;
+}
+footer{
+	background: #2C3E50;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+#about{
+	overflow: hidden;
+}
+ul.breadcrumb > li.active {
+    color: rgba(255, 255, 255, 0.7);
+}
+#portfolio h1{
+	margin-top: 10%;
+}
+#portfolio p{
+	margin-bottom: 15%;
+}
+ul.breadcrumb {
+    margin: 20px 0 0;
+    background: transparent;
+    margin-top: 25%;
+}
+ul.breadcrumb a{
+	color: white;
+}
+.portfolio-items, .portfolio-filter {
+    list-style: none;
+    padding: 0;
+    margin: 0 -20px 20px 0;
+}
+.portfolio-item .item-inner {
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 10px 10px 0;
+    margin: 0 20px 20px 0;
+    position: relative;
+}
+.col-md-4{
+	margin-top: 5%;
+}
+.apps h5{
+	color: #2E3C50;
+	font-weight: bold;
+}
+#portfolio2{
+	margin-bottom: 5%;
+}
+.bg-about {
+	background-color: #34495e;
+	color: #bdc3c7;
+}
+
+
